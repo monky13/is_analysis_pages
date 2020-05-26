@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="30px" height="26px" preserveAspectRatio="xMinYMid meet" viewBox="854 459  30 24" xmlns="http://www.w3.org/2000/svg">
-  <g transform="matrix(0.0174524064372796 0.999847695156396 -0.999847695156393 0.0174524064372843 1324.76212322467 -406.087730522869 )">
-    <path d="M 860.6 469  L 869.5 478  L 878.4 469  L 860.6 469  Z " fill-rule="nonzero" fill="#797979" stroke="none" transform="matrix(0.99995713581515 0.0092588623686588 -0.0092588623686588 0.99995713581515 3.95376919066973 -8.03244927935731 )" />
-    <path d="M 869.5 368  L 869.5 471  " stroke-width="3" stroke="#797979" fill="none" transform="matrix(0.99995713581515 0.0092588623686588 -0.0092588623686588 0.99995713581515 3.95376919066973 -8.03244927935731 )" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="28px" height="26px" preserveAspectRatio="xMinYMid meet" viewBox="848 459  28 24" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(0 1 -1 0 1333 -391 )">
+    <path d="M 853.6 469  L 862.5 478  L 871.4 469  L 853.6 469  Z " fill-rule="nonzero" fill="#797979" stroke="none" />
+    <path d="M 862.5 278  L 862.5 471  " stroke-width="3" stroke="#797979" fill="none" />
   </g>
 </svg>
